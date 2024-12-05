@@ -1,4 +1,4 @@
-# 부모 복제 AI 대화 서비스 : "CLONING"
+# 부모 복제 AI 서비스 : "CLONING"
 
 <br/>
 
