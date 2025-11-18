@@ -1,6 +1,6 @@
 # 🧑‍🧑‍🧒 부모 복제 AI 대화 챗봇 서비스 : Cloning
 
-![ChatGPT Image 2025년 11월 18일 오후 12_56_21.png](attachment:7a3e1207-e4d7-4892-8526-2f2b465775d7:ChatGPT_Image_2025년_11월_18일_오후_12_56_21.png)
+<div align="center"><img src="./image/logo.png" width="500px;" alt=""/></div>
 
 <br>
 
@@ -60,9 +60,9 @@
 
 ## 3. 개발 환경
 
-![최종 (1).png](attachment:da8c3650-4424-47a8-a076-c8965843b778:최종_(1).png)
+<div align="center"><img src="./image/stack.png" width="500px;" alt=""/></div>
 
-<div><h1>🚀 STACKS</h1></div>
+### 🚀 STACKS
 🔧 Backend
 <div> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge&logo=facebook&logoColor=white"> <img src="https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> </div>
 🤖 AI / Machine Learning
@@ -89,16 +89,18 @@
 ### 작업 관리
 
 - 주간회의를 진행하며 작업 순서와 방향성에 대한 고민을 나누고 Notion에 회의 내용을 기록했습니다.
-    
-    ![스크린샷 2025-11-18 오후 1.24.18.png](attachment:430c90e2-7609-4683-8c5b-e1529e4a60a4:2b1452a9-4169-4de5-a8a7-e78089efa44e.png)
+<div align="center"><img src="./image/notion.png" width="200px;" alt=""/></div>
     
 
-![화면 캡처 2024-09-04 000217.png](attachment:fbb09f95-19fb-4b80-bddc-56612c256609:화면_캡처_2024-09-04_000217.png)
-
-- 프로젝트 관리는 Trello로 진행했으며, Git Organization 내 AI, Backend, Frontend로 Repository를 만든 뒤, GitHub Projects와 Issues를 사용하여 형상 관리를 해왔습니다
+- 프로젝트 관리는 Trello로 진행했으며, Git Organization 내 AI, Backend, Frontend로 Repository를 만든 뒤, GitHub Projects와 Issues를 사용하여 형상 관리를 해왔습니다.
+<div align="center"><img src="./image/trello.png" width="500px;" alt=""/></div>
 
 <br>
 
-## 5. 시연 영상
+## 5. 시연 영상 및 결과 보고서
 
-https://www.youtube.com/watch?v=jgBN5mic388
+[시연영상](https://www.youtube.com/watch?v=jgBN5mic388)
+<div><img src="./image/first.png" width="200px;" alt=""/></div>
+
+[📄 결과 보고서 PDF 보기](./images/result.pdf)
+
