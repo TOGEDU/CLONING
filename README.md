@@ -99,8 +99,12 @@
 
 ## 5. 시연 영상 및 결과 보고서
 
-[시연영상](https://www.youtube.com/watch?v=jgBN5mic388)
-<div><img src="./image/first.png" width="200px;" alt=""/></div>
+### ▶️ 시연 영상
+<a href="https://www.youtube.com/watch?v=jgBN5mic388">
+  <img src="./image/video.jpg" width="500px" alt="시연 영상 썸네일" />
+</a>
 
-[📄 결과 보고서 PDF 보기](./images/result.pdf)
-
+### 📄 2024년 이브와 ICT멘토링 프로젝트 결과보고서
+<a href="./image/result.pdf">
+  <img src="./image/first.png" width="500px" />
+</a>
