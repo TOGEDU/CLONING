@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between;">
-  <img src="./image/logo1.png" width="500px" alt=""/>
-  <img src="./image/logo2.png" width="500px" alt=""/>
+  <img src="./image/logo1.png" width="400px" alt=""/>
+  <img src="./image/logo2.png" width="400px" alt=""/>
 </div>
 
 # 🧑‍🧑‍🧒 부모 복제 AI 대화 챗봇 서비스 : Cloning
