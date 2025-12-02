@@ -11,6 +11,7 @@
     - →자녀가 부모를 잃었을 때 일상적인 대화와 조언을 구하기 힘들고, 기존 AI 추모서비스의 높은 비용 문제로 접근성이 낮았습니다.
     - LLM + TTS를 결합하면 부모님과 유사한 챗봇을 만들 수 있을 것이라 생각했고, 프로젝트를 진행하면 남겨진 자녀에게 정서적 지지를 제공해줄 수 있다는 면에서 사회 복지 서비스로 활용될 것이라 생각했습니다.
 ---
+🖥 **주요 기능 설명 : https://github.com/TOGEDU/BE**
 <div><img src="./image/006.png" width="800px;" alt=""/></div>
 <div><img src="./image/008.png" width="800px;" alt=""/></div>
 <div><img src="./image/009.png" width="800px;" alt=""/></div>
