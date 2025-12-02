@@ -1,14 +1,19 @@
+<div><img src="./image/logo.png" width="500px;" alt=""/></div>
+
 # 🧑‍🧑‍🧒 부모 복제 AI 대화 챗봇 서비스 : Cloning
-
-<div align="center"><img src="./image/logo.png" width="500px;" alt=""/></div>
-
-<br>
 
 ## 1. 프로젝트 소개
 
 - 부모의 육아일기와 음성기록을 바탕으로 RAG 및 TTS 모델을 학습시켜 사고방식과 목소리를 복제한 AI를 통해 자녀에게 정서적 심리적 지원을 제공하는 커스텀 AI 챗봇 서비스
     - →자녀가 부모를 잃었을 때 일상적인 대화와 조언을 구하기 힘들고, 기존 AI 추모서비스의 높은 비용 문제로 접근성이 낮았습니다.
     - LLM + TTS를 결합하면 부모님과 유사한 챗봇을 만들 수 있을 것이라 생각했고, 프로젝트를 진행하면 남겨진 자녀에게 정서적 지지를 제공해줄 수 있다는 면에서 사회 복지 서비스로 활용될 것이라 생각했습니다.
+---
+<div><img src="./image/006.png" width="800px;" alt=""/></div>
+<div><img src="./image/008.png" width="800px;" alt=""/></div>
+<div><img src="./image/009.png" width="800px;" alt=""/></div>
+<div><img src="./image/010.png" width="800px;" alt=""/></div>
+<div><img src="./image/011.png" width="800px;" alt=""/></div>
+<div><img src="./image/012.png" width="800px;" alt=""/></div>
 
 <br>
 
@@ -60,7 +65,7 @@
 
 ## 3. 개발 환경
 
-<div align="center"><img src="./image/stack.png" width="500px;" alt=""/></div>
+<div><img src="./image/stack.png" width="500px;" alt=""/></div>
 
 ### 🚀 STACKS
 🔧 Backend
@@ -88,12 +93,9 @@
 
 ### 작업 관리
 
-- 주간회의를 진행하며 작업 순서와 방향성에 대한 고민을 나누고 Notion에 회의 내용을 기록했습니다.
-<div align="center"><img src="./image/notion.png" width="200px;" alt=""/></div>
-    
-
-- 프로젝트 관리는 Trello로 진행했으며, Git Organization 내 AI, Backend, Frontend로 Repository를 만든 뒤, GitHub Projects와 Issues를 사용하여 형상 관리를 해왔습니다.
-<div align="center"><img src="./image/trello.png" width="500px;" alt=""/></div>
+- 주간회의를 진행하며 작업 순서와 방향성에 대한 고민을 나누고 Notion에 회의 내용을 기록했습니다. <br>
+  프로젝트 관리는 Trello로 진행했으며, Git Organization 내 AI, Backend, Frontend로 Repository를 만든 뒤, GitHub Projects와 Issues를 사용하여 형상 관리를 해왔습니다.
+<div><img src="./image/019.png" width="600px;" alt=""/></div>
 
 <br>
 
